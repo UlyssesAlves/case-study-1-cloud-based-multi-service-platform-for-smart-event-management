@@ -89,7 +89,8 @@ This project was conceived by *Ulysses Alves (https://www.linkedin.com/in/ulysse
 ## 5 System Architecture
 ### 5.1 Architectural Structures and Views
 #### 5.1.1 Layer View
-<img width="1689" height="937" alt="image" src="https://github.com/user-attachments/assets/55ca1bc6-f13d-4eca-b9d9-4f8e39f41db3" />
+<img width="1679" height="945" alt="image" src="https://github.com/user-attachments/assets/cf56ac16-d9d2-4e8a-ac85-9851902d5a1a" />
+
 
 ### 5.2 Major Components
 
